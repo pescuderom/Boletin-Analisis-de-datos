@@ -1,0 +1,1125 @@
+Depmun	Municipio	Dep	id_ente	Departamento
+05001	Medellin	05	03	Antioquia
+05002	Abejorral	05	02	Antioquia
+05004	Abriaqui	05	02	Antioquia
+05030	Amaga	05	02	Antioquia
+05031	Amalfi	05	02	Antioquia
+05031	Amalfi	05	02	Antioquia
+05034	Andes	05	02	Antioquia
+05036	Angelopolis	05	02	Antioquia
+05038	Angostura	05	02	Antioquia
+05040	Anori	05	02	Antioquia
+05042	Santafe de Antioquia	05	02	Antioquia
+05044	Anza	05	02	Antioquia
+05045	Apartado	05	90	Apartado
+05051	Arboletes	05	02	Antioquia
+05055	Argelia	05	02	Antioquia
+05059	Armenia	05	02	Antioquia
+05079	Barbosa	05	02	Antioquia
+05086	Belmira	05	02	Antioquia
+05088	Bello	05	04	Bello
+05091	Betania	05	02	Antioquia
+05093	Betulia	05	02	Antioquia
+05101	Ciudad Bolivar	05	02	Antioquia
+05107	Briceno	05	02	Antioquia
+05113	Buritica	05	02	Antioquia
+05120	Caceres	05	02	Antioquia
+05125	Caicedo	05	02	Antioquia
+05129	Caldas	05	02	Antioquia
+05134	Campamento	05	02	Antioquia
+05138	Canasgordas	05	02	Antioquia
+05142	Caracoli	05	02	Antioquia
+05145	Caramanta	05	02	Antioquia
+05147	Carepa	05	02	Antioquia
+05148	El Carmen de Viboral	05	02	Antioquia
+05150	Carolina	05	02	Antioquia
+05154	Caucasia	05	02	Antioquia
+05172	Chigorodo	05	02	Antioquia
+05190	Cisneros	05	02	Antioquia
+05197	Cocorna	05	02	Antioquia
+05206	Concepcion	05	02	Antioquia
+05209	Concordia	05	02	Antioquia
+05212	Copacabana	05	02	Antioquia
+05234	Dabeiba	05	02	Antioquia
+05237	Don Matias	05	02	Antioquia
+05240	Ebejico	05	02	Antioquia
+05250	El Bagre	05	02	Antioquia
+05264	Entrerrios	05	02	Antioquia
+05266	Envigado	05	05	Envigado
+05282	Fredonia	05	02	Antioquia
+05284	Frontino	05	02	Antioquia
+05306	Giraldo	05	02	Antioquia
+05308	Girardota	05	02	Antioquia
+05310	Gomez Plata	05	02	Antioquia
+05313	Granada	05	02	Antioquia
+05315	Guadalupe	05	02	Antioquia
+05318	Guarne	05	02	Antioquia
+05321	Guatape	05	02	Antioquia
+05347	Heliconia	05	02	Antioquia
+05353	Hispania	05	02	Antioquia
+05360	Itagui	05	06	Itagui
+05361	Ituango	05	02	Antioquia
+05364	Jardin	05	02	Antioquia
+05368	Jerico	05	02	Antioquia
+05376	La Ceja	05	02	Antioquia
+05380	La Estrella	05	02	Antioquia
+05390	La Pintada	05	02	Antioquia
+05400	La Union	05	02	Antioquia
+05411	Liborina	05	02	Antioquia
+05425	Maceo	05	02	Antioquia
+05440	Marinilla	05	02	Antioquia
+05467	Montebello	05	02	Antioquia
+05475	Murindo	05	02	Antioquia
+05480	Mutata	05	02	Antioquia
+05483	Narino	05	02	Antioquia
+05490	Necocli	05	02	Antioquia
+05495	Nechi	05	02	Antioquia
+05501	Olaya	05	02	Antioquia
+05541	Penol	05	02	Antioquia
+05543	Peque	05	02	Antioquia
+05576	Pueblorrico	05	02	Antioquia
+05579	Puerto Berrio	05	02	Antioquia
+05585	Puerto Nare	05	02	Antioquia
+05591	Puerto Triunfo	05	02	Antioquia
+05604	Remedios	05	02	Antioquia
+05607	Retiro	05	02	Antioquia
+05615	Rionegro	05	83	Rionegro
+05628	Sabanalarga	05	02	Antioquia
+05631	Sabaneta	05	85	Sabaneta
+05642	Salgar	05	02	Antioquia
+05647	San Andres de Cuerquia	05	02	Antioquia
+05649	San Carlos	05	02	Antioquia
+05652	San Francisco	05	02	Antioquia
+05656	San Jeronimo	05	02	Antioquia
+05658	San Jose de la Montana	05	02	Antioquia
+05659	San Juan de Uraba	05	02	Antioquia
+05660	San Luis	05	02	Antioquia
+05664	San Pedro de los Milagros	05	02	Antioquia
+05665	San Pedro de Uraba	05	02	Antioquia
+05667	San Rafael	05	02	Antioquia
+05670	San Roque	05	02	Antioquia
+05674	San Vicente	05	02	Antioquia
+05679	Santa Barbara	05	02	Antioquia
+05686	Santa Rosa de Osos	05	02	Antioquia
+05690	Santo Domingo	05	02	Antioquia
+05697	El Santuario	05	02	Antioquia
+05736	Segovia	05	02	Antioquia
+05756	Sonson	05	02	Antioquia
+05761	Sopetran	05	02	Antioquia
+05789	Tamesis	05	02	Antioquia
+05790	Taraza	05	02	Antioquia
+05792	Tarso	05	02	Antioquia
+05809	Titiribi	05	02	Antioquia
+05819	Toledo	05	02	Antioquia
+05837	Turbo	05	07	Turbo
+05842	Uramita	05	02	Antioquia
+05847	Urrao	05	02	Antioquia
+05854	Valdivia	05	02	Antioquia
+05856	Valparaiso	05	02	Antioquia
+05858	Vegachi	05	02	Antioquia
+05861	Venecia	05	02	Antioquia
+05873	Vigia del Fuerte	05	02	Antioquia
+05885	Yali	05	02	Antioquia
+05887	Yarumal	05	02	Antioquia
+05890	Yolombo	05	02	Antioquia
+05893	Yondo	05	02	Antioquia
+05895	Zaragoza	05	02	Antioquia
+08001	Barranquilla	08	11	Barranquilla
+08078	Baranoa	08	09	Atlantico
+08137	Campo de la Cruz	08	09	Atlantico
+08141	Candelaria	08	09	Atlantico
+08296	Galapa	08	09	Atlantico
+08372	Juan de Acosta	08	09	Atlantico
+08421	Luruaco	08	09	Atlantico
+08433	Malambo	08	92	Malambo
+08436	Manati	08	09	Atlantico
+08520	Palmar de Varela	08	09	Atlantico
+08549	Piojo	08	09	Atlantico
+08558	Polonuevo	08	09	Atlantico
+08560	Ponedera	08	09	Atlantico
+08573	Puerto Colombia	08	09	Atlantico
+08606	Repelon	08	09	Atlantico
+08634	Sabanagrande	08	09	Atlantico
+08638	Sabanalarga	08	09	Atlantico
+08675	Santa Lucia	08	09	Atlantico
+08685	Santo Tomas	08	09	Atlantico
+08758	Soledad	08	10	Soledad
+08770	Suan	08	09	Atlantico
+08832	Tubara	08	09	Atlantico
+08849	Usiacuri	08	09	Atlantico
+11001	Bogota, D.C.	11	12	Bogota, D.C.
+13001	Cartagena	13	23	Cartagena
+13006	Achi	13	13	Bolivar
+13030	Altos del Rosario	13	13	Bolivar
+13042	Arenal	13	13	Bolivar
+13052	Arjona	13	13	Bolivar
+13062	Arroyohondo	13	13	Bolivar
+13074	Barranco de Loba	13	13	Bolivar
+13140	Calamar	13	13	Bolivar
+13160	Cantagallo	13	13	Bolivar
+13188	Cicuco	13	13	Bolivar
+13212	Cordoba	13	13	Bolivar
+13222	Clemencia	13	13	Bolivar
+13244	El Carmen de Bolivar	13	13	Bolivar
+13248	El Guamo	13	13	Bolivar
+13268	El Penon	13	13	Bolivar
+13300	Hatillo de Loba	13	13	Bolivar
+13430	Magangue	13	14	Magangue
+13433	Mahates	13	13	Bolivar
+13440	Margarita	13	13	Bolivar
+13442	Maria la Baja	13	13	Bolivar
+13458	Montecristo	13	13	Bolivar
+13468	Mompos	13	13	Bolivar
+13473	Morales	13	13	Bolivar
+13490	Norosi	13	13	Bolivar
+13549	Pinillos	13	13	Bolivar
+13580	Regidor	13	13	Bolivar
+13600	Rio Viejo	13	13	Bolivar
+13620	San Cristobal	13	13	Bolivar
+13647	San Estanislao	13	13	Bolivar
+13650	San Fernando	13	13	Bolivar
+13654	San Jacinto	13	13	Bolivar
+13655	San Jacinto del Cauca	13	13	Bolivar
+13657	San Juan Nepomuceno	13	13	Bolivar
+13667	San Martin de Loba	13	13	Bolivar
+13670	San Pablo	13	13	Bolivar
+13673	Santa Catalina	13	13	Bolivar
+13683	Santa Rosa	13	13	Bolivar
+13688	Santa Rosa del Sur	13	13	Bolivar
+13744	Simiti	13	13	Bolivar
+13760	Soplaviento	13	13	Bolivar
+13780	Talaigua Nuevo	13	13	Bolivar
+13810	Tiquisio	13	13	Bolivar
+13836	Turbaco	13	13	Bolivar
+13838	Turbana	13	13	Bolivar
+13873	Villanueva	13	13	Bolivar
+13894	Zambrano	13	13	Bolivar
+15001	Tunja	15	16	Tunja
+15022	Almeida	15	15	Boyaca
+15047	Aquitania	15	15	Boyaca
+15051	Arcabuco	15	15	Boyaca
+15087	Belen	15	15	Boyaca
+15090	Berbeo	15	15	Boyaca
+15092	Beteitiva	15	15	Boyaca
+15097	Boavita	15	15	Boyaca
+15104	Boyaca	15	15	Boyaca
+15106	Briceno	15	15	Boyaca
+15109	Buenavista	15	15	Boyaca
+15114	Busbanza	15	15	Boyaca
+15131	Caldas	15	15	Boyaca
+15135	Campohermoso	15	15	Boyaca
+15162	Cerinza	15	15	Boyaca
+15172	Chinavita	15	15	Boyaca
+15176	Chiquinquira	15	15	Boyaca
+15180	Chiscas	15	15	Boyaca
+15183	Chita	15	15	Boyaca
+15185	Chitaraque	15	15	Boyaca
+15187	Chivata	15	15	Boyaca
+15189	Cienega	15	15	Boyaca
+15204	Combita	15	15	Boyaca
+15212	Coper	15	15	Boyaca
+15215	Corrales	15	15	Boyaca
+15218	Covarachia	15	15	Boyaca
+15223	Cubara	15	15	Boyaca
+15224	Cucaita	15	15	Boyaca
+15226	Cuitiva	15	15	Boyaca
+15232	Chiquiza	15	15	Boyaca
+15236	Chivor	15	15	Boyaca
+15238	Duitama	15	17	Duitama
+15244	El Cocuy	15	15	Boyaca
+15248	El Espino	15	15	Boyaca
+15272	Firavitoba	15	15	Boyaca
+15276	Floresta	15	15	Boyaca
+15293	Gachantiva	15	15	Boyaca
+15296	Gameza	15	15	Boyaca
+15299	Garagoa	15	15	Boyaca
+15317	Guacamayas	15	15	Boyaca
+15322	Guateque	15	15	Boyaca
+15325	Guayata	15	15	Boyaca
+15332	Guican	15	15	Boyaca
+15362	Iza	15	15	Boyaca
+15367	Jenesano	15	15	Boyaca
+15368	Jerico	15	15	Boyaca
+15377	Labranzagrande	15	15	Boyaca
+15380	La Capilla	15	15	Boyaca
+15401	La Victoria	15	15	Boyaca
+15403	La Uvita	15	15	Boyaca
+15407	Villa de Leyva	15	15	Boyaca
+15425	Macanal	15	15	Boyaca
+15442	Maripi	15	15	Boyaca
+15455	Miraflores	15	15	Boyaca
+15464	Mongua	15	15	Boyaca
+15466	Mongui	15	15	Boyaca
+15469	Moniquira	15	15	Boyaca
+15476	Motavita	15	15	Boyaca
+15480	Muzo	15	15	Boyaca
+15491	Nobsa	15	15	Boyaca
+15494	Nuevo Colon	15	15	Boyaca
+15500	Oicata	15	15	Boyaca
+15507	Otanche	15	15	Boyaca
+15511	Pachavita	15	15	Boyaca
+15514	Paez	15	15	Boyaca
+15516	Paipa	15	15	Boyaca
+15518	Pajarito	15	15	Boyaca
+15522	Panqueba	15	15	Boyaca
+15531	Pauna	15	15	Boyaca
+15533	Paya	15	15	Boyaca
+15537	Paz de Rio	15	15	Boyaca
+15542	Pesca	15	15	Boyaca
+15550	Pisba	15	15	Boyaca
+15572	Puerto Boyaca	15	15	Boyaca
+15580	Quipama	15	15	Boyaca
+15599	Ramiriqui	15	15	Boyaca
+15600	Raquira	15	15	Boyaca
+15621	Rondon	15	15	Boyaca
+15632	Saboya	15	15	Boyaca
+15638	Sachica	15	15	Boyaca
+15646	Samaca	15	15	Boyaca
+15660	San Eduardo	15	15	Boyaca
+15664	San Jose de Pare	15	15	Boyaca
+15667	San Luis de Gaceno	15	15	Boyaca
+15673	San Mateo	15	15	Boyaca
+15676	San Miguel de Sema	15	15	Boyaca
+15681	San Pablo de Borbur	15	15	Boyaca
+15686	Santana	15	15	Boyaca
+15690	Santa Maria	15	15	Boyaca
+15693	Santa Rosa de Viterbo	15	15	Boyaca
+15696	Santa Sofia	15	15	Boyaca
+15720	Sativanorte	15	15	Boyaca
+15723	Sativasur	15	15	Boyaca
+15740	Siachoque	15	15	Boyaca
+15753	Soata	15	15	Boyaca
+15755	Socota	15	15	Boyaca
+15757	Socha	15	15	Boyaca
+15759	Sogamoso	15	18	Sogamoso
+15761	Somondoco	15	15	Boyaca
+15762	Sora	15	15	Boyaca
+15763	Sotaquira	15	15	Boyaca
+15764	Soraca	15	15	Boyaca
+15774	Susacon	15	15	Boyaca
+15776	Sutamarchan	15	15	Boyaca
+15778	Sutatenza	15	15	Boyaca
+15790	Tasco	15	15	Boyaca
+15798	Tenza	15	15	Boyaca
+15804	Tibana	15	15	Boyaca
+15806	Tibasosa	15	15	Boyaca
+15808	Tinjaca	15	15	Boyaca
+15810	Tipacoque	15	15	Boyaca
+15814	Toca	15	15	Boyaca
+15816	Togui	15	15	Boyaca
+15820	Topaga	15	15	Boyaca
+15822	Tota	15	15	Boyaca
+15832	Tunungua	15	15	Boyaca
+15835	Turmeque	15	15	Boyaca
+15837	Tuta	15	15	Boyaca
+15839	Tutaza	15	15	Boyaca
+15842	Umbita	15	15	Boyaca
+15861	Ventaquemada	15	15	Boyaca
+15879	Viracacha	15	15	Boyaca
+15897	Zetaquira	15	15	Boyaca
+17001	Manizales	17	20	Manizales
+17013	Aguadas	17	19	Caldas
+17042	Anserma	17	19	Caldas
+17050	Aranzazu	17	19	Caldas
+17088	Belalcazar	17	19	Caldas
+17174	Chinchina	17	19	Caldas
+17272	Filadelfia	17	19	Caldas
+17380	La Dorada	17	19	Caldas
+17388	La Merced	17	19	Caldas
+17433	Manzanares	17	19	Caldas
+17442	Marmato	17	19	Caldas
+17444	Marquetalia	17	19	Caldas
+17446	Marulanda	17	19	Caldas
+17486	Neira	17	19	Caldas
+17495	Norcasia	17	19	Caldas
+17513	Pacora	17	19	Caldas
+17524	Palestina	17	19	Caldas
+17541	Pensilvania	17	19	Caldas
+17614	Riosucio	17	19	Caldas
+17616	Risaralda	17	19	Caldas
+17653	Salamina	17	19	Caldas
+17662	Samana	17	19	Caldas
+17665	San Jose	17	19	Caldas
+17777	Supia	17	19	Caldas
+17867	Victoria	17	19	Caldas
+17873	Villamaria	17	19	Caldas
+17877	Viterbo	17	19	Caldas
+18001	Florencia	18	22	Florencia
+18029	Albania	18	21	Caqueta
+18094	Belen de los Andaquies	18	21	Caqueta
+18150	Cartagena del Chaira	18	21	Caqueta
+18205	Curillo	18	21	Caqueta
+18247	El Doncello	18	21	Caqueta
+18256	El Paujil	18	21	Caqueta
+18410	La Montanita	18	21	Caqueta
+18460	Milan	18	21	Caqueta
+18479	Morelia	18	21	Caqueta
+18592	Puerto Rico	18	21	Caqueta
+18610	San Jose del Fragua	18	21	Caqueta
+18753	San Vicente del Caguan	18	21	Caqueta
+18756	Solano	18	21	Caqueta
+18785	Solita	18	21	Caqueta
+18860	Valparaiso	18	21	Caqueta
+19001	Popayan	19	26	Popayan
+19022	Almaguer	19	25	Cauca
+19050	Argelia	19	25	Cauca
+19075	Balboa	19	25	Cauca
+19100	Bolivar	19	25	Cauca
+19110	Buenos Aires	19	25	Cauca
+19130	Cajibio	19	25	Cauca
+19137	Caldono	19	25	Cauca
+19142	Caloto	19	25	Cauca
+19212	Corinto	19	25	Cauca
+19256	El Tambo	19	25	Cauca
+19290	Florencia	19	25	Cauca
+19300	Guachene	19	25	Cauca
+19318	Guapi	19	25	Cauca
+19355	Inza	19	25	Cauca
+19364	Jambalo	19	25	Cauca
+19392	La Sierra	19	25	Cauca
+19397	La Vega	19	25	Cauca
+19418	Lopez	19	25	Cauca
+19450	Mercaderes	19	25	Cauca
+19455	Miranda	19	25	Cauca
+19473	Morales	19	25	Cauca
+19513	Padilla	19	25	Cauca
+19517	Paez	19	25	Cauca
+19532	Patia	19	25	Cauca
+19533	Piamonte	19	25	Cauca
+19548	Piendamo	19	25	Cauca
+19573	Puerto Tejada	19	25	Cauca
+19585	Purace	19	25	Cauca
+19622	Rosas	19	25	Cauca
+19693	San Sebastian	19	25	Cauca
+19698	Santander de Quilichao	19	25	Cauca
+19701	Santa Rosa	19	25	Cauca
+19743	Silvia	19	25	Cauca
+19760	Sotara	19	25	Cauca
+19780	Suarez	19	25	Cauca
+19785	Sucre	19	25	Cauca
+19807	Timbio	19	25	Cauca
+19809	Timbiqui	19	25	Cauca
+19821	Toribio	19	25	Cauca
+19824	Totoro	19	25	Cauca
+19845	Villa Rica	19	25	Cauca
+20001	Valledupar	20	28	Valledupar
+20011	Aguachica	20	27	Cesar
+20013	Agustin Codazzi	20	27	Cesar
+20032	Astrea	20	27	Cesar
+20045	Becerril	20	27	Cesar
+20060	Bosconia	20	27	Cesar
+20175	Chimichagua	20	27	Cesar
+20178	Chiriguana	20	27	Cesar
+20228	Curumani	20	27	Cesar
+20238	El Copey	20	27	Cesar
+20250	El Paso	20	27	Cesar
+20295	Gamarra	20	27	Cesar
+20310	Gonzalez	20	27	Cesar
+20383	La Gloria	20	27	Cesar
+20400	La Jagua de Ibirico	20	27	Cesar
+20443	Manaure	20	27	Cesar
+20517	Pailitas	20	27	Cesar
+20550	Pelaya	20	27	Cesar
+20570	Pueblo Bello	20	27	Cesar
+20614	Rio de Oro	20	27	Cesar
+20621	La Paz	20	27	Cesar
+20710	San Alberto	20	27	Cesar
+20750	San Diego	20	27	Cesar
+20770	San Martin	20	27	Cesar
+20787	Tamalameque	20	27	Cesar
+23001	Monteria	23	31	Monteria
+23068	Ayapel	23	30	Cordoba
+23079	Buenavista	23	30	Cordoba
+23090	Canalete	23	30	Cordoba
+23162	Cerete	23	30	Cordoba
+23168	Chima	23	30	Cordoba
+23182	Chinu	23	30	Cordoba
+23189	Cienaga de Oro	23	30	Cordoba
+23300	Cotorra	23	30	Cordoba
+23350	La Apartada	23	30	Cordoba
+23417	Lorica	23	32	Lorica
+23419	Los Cordobas	23	30	Cordoba
+23464	Momil	23	30	Cordoba
+23466	Montelibano	23	30	Cordoba
+23500	Monitos	23	30	Cordoba
+23555	Planeta Rica	23	30	Cordoba
+23570	Pueblo Nuevo	23	30	Cordoba
+23574	Puerto Escondido	23	30	Cordoba
+23580	Puerto Libertador	23	30	Cordoba
+23586	Purisima	23	30	Cordoba
+23660	Sahagun	23	33	Sahagun
+23670	San Andres Sotavento	23	30	Cordoba
+23672	San Antero	23	30	Cordoba
+23675	San Bernardo del Viento	23	30	Cordoba
+23678	San Carlos	23	30	Cordoba
+23682	San Jose de Ure	23	30	Cordoba
+23685	Bajo Primavera	23	30	Cordoba
+23686	San Pelayo	23	30	Cordoba
+23807	Tierralta	23	30	Cordoba
+23815	Tuchin	23	30	Cordoba
+23855	Valencia	23	30	Cordoba
+25001	Agua de Dios	25	34	Cundinamarca
+25019	Alban	25	34	Cundinamarca
+25035	Anapoima	25	34	Cundinamarca
+25040	Anolaima	25	34	Cundinamarca
+25053	Arbelaez	25	34	Cundinamarca
+25086	Beltran	25	34	Cundinamarca
+25095	Bituima	25	34	Cundinamarca
+25099	Bojaca	25	34	Cundinamarca
+25120	Cabrera	25	34	Cundinamarca
+25123	Cachipay	25	34	Cundinamarca
+25126	Cajica	25	34	Cundinamarca
+25148	Caparrapi	25	34	Cundinamarca
+25151	Caqueza	25	34	Cundinamarca
+25154	Carmen de Carupa	25	34	Cundinamarca
+25168	Chaguani	25	34	Cundinamarca
+25175	Chia	25	91	Chia
+25178	Chipaque	25	34	Cundinamarca
+25181	Choachi	25	34	Cundinamarca
+25183	Choconta	25	34	Cundinamarca
+25200	Cogua	25	34	Cundinamarca
+25214	Cota	25	34	Cundinamarca
+25224	Cucunuba	25	34	Cundinamarca
+25245	El Colegio	25	34	Cundinamarca
+25258	El Penon	25	34	Cundinamarca
+25260	El Rosal	25	34	Cundinamarca
+25269	Facatativa	25	89	Facatativa
+25279	Fomeque	25	34	Cundinamarca
+25281	Fosca	25	34	Cundinamarca
+25286	Funza	25	34	Cundinamarca
+25288	Fuquene	25	34	Cundinamarca
+25290	Fusagasuga	25	35	Fusagasuga
+25293	Gachala	25	34	Cundinamarca
+25295	Gachancipa	25	34	Cundinamarca
+25297	Gacheta	25	34	Cundinamarca
+25299	Gama	25	34	Cundinamarca
+25307	Girardot	25	36	Girardot
+25312	Granada	25	34	Cundinamarca
+25317	Guacheta	25	34	Cundinamarca
+25320	Guaduas	25	34	Cundinamarca
+25322	Guasca	25	34	Cundinamarca
+25324	Guataqui	25	34	Cundinamarca
+25326	Guatavita	25	34	Cundinamarca
+25328	Guayabal de Siquima	25	34	Cundinamarca
+25335	Guayabetal	25	34	Cundinamarca
+25339	Gutierrez	25	34	Cundinamarca
+25368	Jerusalen	25	34	Cundinamarca
+25372	Junin	25	34	Cundinamarca
+25377	La Calera	25	34	Cundinamarca
+25386	La Mesa	25	34	Cundinamarca
+25394	La Palma	25	34	Cundinamarca
+25398	La Pena	25	34	Cundinamarca
+25402	La Vega	25	34	Cundinamarca
+25407	Lenguazaque	25	34	Cundinamarca
+25426	Macheta	25	34	Cundinamarca
+25430	Madrid	25	34	Cundinamarca
+25436	Manta	25	34	Cundinamarca
+25438	Medina	25	34	Cundinamarca
+25473	Mosquera	25	87	Mosquera
+25483	Narino	25	34	Cundinamarca
+25486	Nemocon	25	34	Cundinamarca
+25488	Nilo	25	34	Cundinamarca
+25489	Nimaima	25	34	Cundinamarca
+25491	Nocaima	25	34	Cundinamarca
+25506	Venecia	25	34	Cundinamarca
+25513	Pacho	25	34	Cundinamarca
+25518	Paime	25	34	Cundinamarca
+25524	Pandi	25	34	Cundinamarca
+25530	Paratebueno	25	34	Cundinamarca
+25535	Pasca	25	34	Cundinamarca
+25572	Puerto Salgar	25	34	Cundinamarca
+25580	Puli	25	34	Cundinamarca
+25592	Quebradanegra	25	34	Cundinamarca
+25594	Quetame	25	34	Cundinamarca
+25596	Quipile	25	34	Cundinamarca
+25599	Apulo	25	34	Cundinamarca
+25612	Ricaurte	25	34	Cundinamarca
+25645	San Antonio del Tequendam	25	34	Cundinamarca
+25649	San Bernardo	25	34	Cundinamarca
+25653	San Cayetano	25	34	Cundinamarca
+25658	San Francisco	25	34	Cundinamarca
+25662	San Juan de Rio Seco	25	34	Cundinamarca
+25718	Sasaima	25	34	Cundinamarca
+25736	Sesquile	25	34	Cundinamarca
+25740	Sibate	25	34	Cundinamarca
+25743	Silvania	25	34	Cundinamarca
+25745	Simijaca	25	34	Cundinamarca
+25754	Soacha	25	37	Soacha
+25758	Sopo	25	34	Cundinamarca
+25769	Subachoque	25	34	Cundinamarca
+25772	Suesca	25	34	Cundinamarca
+25777	Supata	25	34	Cundinamarca
+25779	Susa	25	34	Cundinamarca
+25781	Sutatausa	25	34	Cundinamarca
+25785	Tabio	25	34	Cundinamarca
+25793	Tausa	25	34	Cundinamarca
+25797	Tena	25	34	Cundinamarca
+25799	Tenjo	25	34	Cundinamarca
+25805	Tibacuy	25	34	Cundinamarca
+25807	Tibirita	25	34	Cundinamarca
+25815	Tocaima	25	34	Cundinamarca
+25817	Tocancipa	25	34	Cundinamarca
+25823	Topaipi	25	34	Cundinamarca
+25839	Ubala	25	34	Cundinamarca
+25841	Ubaque	25	34	Cundinamarca
+25843	Villa de San Diego de Uba	25	34	Cundinamarca
+25845	Une	25	34	Cundinamarca
+25851	utica	25	34	Cundinamarca
+25862	Vergara	25	34	Cundinamarca
+25867	Viani	25	34	Cundinamarca
+25871	Villagomez	25	34	Cundinamarca
+25873	Villapinzon	25	34	Cundinamarca
+25875	Villeta	25	34	Cundinamarca
+25878	Viota	25	34	Cundinamarca
+25885	Yacopi	25	34	Cundinamarca
+25898	Zipacon	25	34	Cundinamarca
+25899	Zipaquira	25	86	Zipaquira
+27001	Quibdo	27	79	Quibdo
+27006	Acandi	27	29	Choco
+27025	Alto Baudo	27	29	Choco
+27050	Atrato	27	29	Choco
+27073	Bagado	27	29	Choco
+27075	Bahia Solano	27	29	Choco
+27077	Bajo Baudo	27	29	Choco
+27086	Belen de Bajira	27	29	Choco
+27099	Bojaya	27	29	Choco
+27135	El Canton del San Pablo	27	29	Choco
+27150	Carmen del Darien	27	29	Choco
+27160	Certegui	27	29	Choco
+27205	Condoto	27	29	Choco
+27245	El Carmen de Atrato	27	29	Choco
+27250	El Litoral del San Juan	27	29	Choco
+27361	Istmina	27	29	Choco
+27372	Jurado	27	29	Choco
+27413	Lloro	27	29	Choco
+27425	Medio Atrato	27	29	Choco
+27430	Medio Baudo	27	29	Choco
+27450	Medio San Juan	27	29	Choco
+27491	Novita	27	29	Choco
+27495	Nuqui	27	29	Choco
+27580	Rio Iro	27	29	Choco
+27600	Rio Quito	27	29	Choco
+27615	Riosucio	27	29	Choco
+27660	San Jose del Palmar	27	29	Choco
+27745	Sipi	27	29	Choco
+27787	Tado	27	29	Choco
+27800	Unguia	27	29	Choco
+27810	Union Panamericana	27	29	Choco
+41001	Neiva	41	41	Neiva
+41006	Acevedo	41	40	Huila
+41013	Agrado	41	40	Huila
+41016	Aipe	41	40	Huila
+41020	Algeciras	41	40	Huila
+41026	Altamira	41	40	Huila
+41078	Baraya	41	40	Huila
+41132	Campoalegre	41	40	Huila
+41206	Colombia	41	40	Huila
+41244	Elias	41	40	Huila
+41298	Garzon	41	40	Huila
+41306	Gigante	41	40	Huila
+41319	Guadalupe	41	40	Huila
+41349	Hobo	41	40	Huila
+41357	Iquira	41	40	Huila
+41359	Isnos	41	40	Huila
+41378	La Argentina	41	40	Huila
+41396	La Plata	41	40	Huila
+41483	Nataga	41	40	Huila
+41503	Oporapa	41	40	Huila
+41518	Paicol	41	40	Huila
+41524	Palermo	41	40	Huila
+41530	Palestina	41	40	Huila
+41548	Pital	41	40	Huila
+41551	Pitalito	41	84	Pitalito
+41615	Rivera	41	40	Huila
+41660	Saladoblanco	41	40	Huila
+41668	San Agustin	41	40	Huila
+41676	Santa Maria	41	40	Huila
+41770	Suaza	41	40	Huila
+41791	Tarqui	41	40	Huila
+41797	Tesalia	41	40	Huila
+41799	Tello	41	40	Huila
+41801	Teruel	41	40	Huila
+41807	Timana	41	40	Huila
+41872	Villavieja	41	40	Huila
+41885	Yaguara	41	40	Huila
+44001	Riohacha	44	93	Riohacha
+44035	Albania	44	42	La Guajira
+44078	Barrancas	44	42	La Guajira
+44090	Dibulla	44	42	La Guajira
+44098	Distraccion	44	42	La Guajira
+44110	El Molino	44	42	La Guajira
+44279	Fonseca	44	42	La Guajira
+44378	Hato Nuevo	44	42	La Guajira
+44420	La Jagua del Pilar	44	42	La Guajira
+44430	Maicao	44	43	Maicao
+44560	Manaure	44	42	La Guajira
+44650	San Juan del Cesar	44	42	La Guajira
+44847	Uribia	44	80	Uribia
+44855	Urumita	44	42	La Guajira
+44874	Villanueva	44	42	La Guajira
+47001	Santa Marta	47	60	Santa Marta
+47030	Algarrobo	47	44	Magdalena
+47053	Aracataca	47	44	Magdalena
+47058	Ariguani	47	44	Magdalena
+47161	Cerro San Antonio	47	44	Magdalena
+47170	Chibolo	47	44	Magdalena
+47189	Cienaga	47	45	Cienaga
+47205	Concordia	47	44	Magdalena
+47245	El Banco	47	44	Magdalena
+47258	El Pinon	47	44	Magdalena
+47268	El Reten	47	44	Magdalena
+47288	Fundacion	47	44	Magdalena
+47318	Guamal	47	44	Magdalena
+47460	Nueva Granada	47	44	Magdalena
+47541	Pedraza	47	44	Magdalena
+47545	Pijino del Carmen	47	44	Magdalena
+47551	Pivijay	47	44	Magdalena
+47555	Plato	47	44	Magdalena
+47570	Puebloviejo	47	44	Magdalena
+47605	Remolino	47	44	Magdalena
+47660	Sabanas de San Angel	47	44	Magdalena
+47675	Salamina	47	44	Magdalena
+47692	San Sebastian de Buenavis	47	44	Magdalena
+47703	San Zenon	47	44	Magdalena
+47707	Santa Ana	47	44	Magdalena
+47720	Santa Barbara de Pinto	47	44	Magdalena
+47745	Sitionuevo	47	44	Magdalena
+47798	Tenerife	47	44	Magdalena
+47960	Zapayan	47	44	Magdalena
+47980	Zona Bananera	47	44	Magdalena
+50001	Villavicencio	50	47	Villavicencio
+50006	Acacias	50	46	Meta
+50110	Barranca de Upia	50	46	Meta
+50124	Cabuyaro	50	46	Meta
+50150	Castilla la Nueva	50	46	Meta
+50223	Cubarral	50	46	Meta
+50226	Cumaral	50	46	Meta
+50245	El Calvario	50	46	Meta
+50251	El Castillo	50	46	Meta
+50270	El Dorado	50	46	Meta
+50287	Fuente de Oro	50	46	Meta
+50313	Granada	50	46	Meta
+50318	Guamal	50	46	Meta
+50325	Mapiripan	50	46	Meta
+50330	Mesetas	50	46	Meta
+50350	La Macarena	50	46	Meta
+50370	Uribe	50	46	Meta
+50400	Lejanias	50	46	Meta
+50450	Puerto Concordia	50	46	Meta
+50568	Puerto Gaitan	50	46	Meta
+50573	Puerto Lopez	50	46	Meta
+50577	Puerto Lleras	50	46	Meta
+50590	Puerto Rico	50	46	Meta
+50606	Restrepo	50	46	Meta
+50680	San Carlos de Guaroa	50	46	Meta
+50683	San Juan de Arama	50	46	Meta
+50686	San Juanito	50	46	Meta
+50689	San Martin	50	46	Meta
+50711	Vista Hermosa	50	46	Meta
+52001	Pasto	52	49	Pasto
+52019	Alban	52	48	Narino
+52022	Aldana	52	48	Narino
+52036	Ancuya	52	48	Narino
+52051	Arboleda	52	48	Narino
+52079	Barbacoas	52	48	Narino
+52083	Belen	52	48	Narino
+52110	Buesaco	52	48	Narino
+52203	Colon	52	48	Narino
+52207	Consaca	52	48	Narino
+52210	Contadero	52	48	Narino
+52215	Cordoba	52	48	Narino
+52224	Cuaspud	52	48	Narino
+52227	Cumbal	52	48	Narino
+52233	Cumbitara	52	48	Narino
+52240	Chachagui	52	48	Narino
+52250	El Charco	52	48	Narino
+52254	El Penol	52	48	Narino
+52256	El Rosario	52	48	Narino
+52258	El Tablon de Gomez	52	48	Narino
+52260	El Tambo	52	48	Narino
+52287	Funes	52	48	Narino
+52317	Guachucal	52	48	Narino
+52320	Guaitarilla	52	48	Narino
+52323	Gualmatan	52	48	Narino
+52352	Iles	52	48	Narino
+52354	Imues	52	48	Narino
+52356	Ipiales	52	88	Ipiales
+52378	La Cruz	52	48	Narino
+52381	La Florida	52	48	Narino
+52385	La Llanada	52	48	Narino
+52390	La Tola	52	48	Narino
+52399	La Union	52	48	Narino
+52405	Leiva	52	48	Narino
+52411	Linares	52	48	Narino
+52418	Los Andes	52	48	Narino
+52427	Magui	52	48	Narino
+52435	Mallama	52	48	Narino
+52473	Mosquera	52	48	Narino
+52480	Narino	52	48	Narino
+52490	Olaya Herrera	52	48	Narino
+52506	Ospina	52	48	Narino
+52520	Francisco Pizarro	52	48	Narino
+52540	Policarpa	52	48	Narino
+52560	Potosi	52	48	Narino
+52565	Providencia	52	48	Narino
+52573	Puerres	52	48	Narino
+52585	Pupiales	52	48	Narino
+52612	Ricaurte	52	48	Narino
+52621	Roberto Payan	52	48	Narino
+52678	Samaniego	52	48	Narino
+52683	Sandona	52	48	Narino
+52685	San Bernardo	52	48	Narino
+52687	San Lorenzo	52	48	Narino
+52693	San Pablo	52	48	Narino
+52694	San Pedro de Cartago	52	48	Narino
+52696	Santa Barbara	52	48	Narino
+52699	Santacruz	52	48	Narino
+52720	Sapuyes	52	48	Narino
+52786	Taminango	52	48	Narino
+52788	Tangua	52	48	Narino
+52835	Tumaco	52	50	Tumaco
+52838	Tuquerres	52	48	Narino
+52885	Yacuanquer	52	48	Narino
+54001	Cucuta	54	52	Cucuta
+54003	Abrego	54	51	Norte de Santande
+54051	Arboledas	54	51	Norte de Santande
+54099	Bochalema	54	51	Norte de Santande
+54109	Bucarasica	54	51	Norte de Santande
+54125	Cacota	54	51	Norte de Santande
+54128	Cachira	54	51	Norte de Santande
+54172	Chinacota	54	51	Norte de Santande
+54174	Chitaga	54	51	Norte de Santande
+54206	Convencion	54	51	Norte de Santande
+54223	Cucutilla	54	51	Norte de Santande
+54239	Durania	54	51	Norte de Santande
+54245	El Carmen	54	51	Norte de Santande
+54250	El Tarra	54	51	Norte de Santande
+54261	El Zulia	54	51	Norte de Santande
+54313	Gramalote	54	51	Norte de Santande
+54344	Hacari	54	51	Norte de Santande
+54347	Herran	54	51	Norte de Santande
+54377	Labateca	54	51	Norte de Santande
+54385	La Esperanza	54	51	Norte de Santande
+54398	La Playa	54	51	Norte de Santande
+54405	Los Patios	54	51	Norte de Santande
+54418	Lourdes	54	51	Norte de Santande
+54480	Mutiscua	54	51	Norte de Santande
+54498	Ocana	54	51	Norte de Santande
+54518	Pamplona	54	51	Norte de Santande
+54520	Pamplonita	54	51	Norte de Santande
+54553	Puerto Santander	54	51	Norte de Santande
+54599	Ragonvalia	54	51	Norte de Santande
+54660	Salazar	54	51	Norte de Santande
+54670	San Calixto	54	51	Norte de Santande
+54673	San Cayetano	54	51	Norte de Santande
+54680	Santiago	54	51	Norte de Santande
+54720	Sardinata	54	51	Norte de Santande
+54743	Silos	54	51	Norte de Santande
+54800	Teorama	54	51	Norte de Santande
+54810	Tibu	54	51	Norte de Santande
+54820	Toledo	54	51	Norte de Santande
+54871	Villa Caro	54	51	Norte de Santande
+54874	Villa del Rosario	54	51	Norte de Santande
+63001	Armenia	63	55	Armenia
+63111	Buenavista	63	54	Quindio
+63130	Calarca	63	54	Quindio
+63190	Circasia	63	54	Quindio
+63212	Cordoba	63	54	Quindio
+63272	Filandia	63	54	Quindio
+63302	Genova	63	54	Quindio
+63401	La Tebaida	63	54	Quindio
+63470	Montenegro	63	54	Quindio
+63548	Pijao	63	54	Quindio
+63594	Quimbaya	63	54	Quindio
+63690	Salento	63	54	Quindio
+66001	Pereira	66	57	Pereira
+66045	Apia	66	56	Risaralda
+66075	Balboa	66	56	Risaralda
+66088	Belen de Umbria	66	56	Risaralda
+66170	Dosquebradas	66	58	Dosquebradas
+66318	Guatica	66	56	Risaralda
+66383	La Celia	66	56	Risaralda
+66400	La Virginia	66	56	Risaralda
+66440	Marsella	66	56	Risaralda
+66456	Mistrato	66	56	Risaralda
+66572	Pueblo Rico	66	56	Risaralda
+66594	Quinchia	66	56	Risaralda
+66682	Santa Rosa de Cabal	66	56	Risaralda
+66687	Santuario	66	56	Risaralda
+68001	Bucaramanga	68	62	Bucaramanga
+68013	Aguada	68	61	Santander
+68020	Albania	68	61	Santander
+68051	Aratoca	68	61	Santander
+68077	Barbosa	68	61	Santander
+68079	Barichara	68	61	Santander
+68081	Barrancabermeja	68	63	Barrancabermeja
+68092	Betulia	68	61	Santander
+68101	Bolivar	68	61	Santander
+68121	Cabrera	68	61	Santander
+68132	California	68	61	Santander
+68147	Capitanejo	68	61	Santander
+68152	Carcasi	68	61	Santander
+68160	Cepita	68	61	Santander
+68162	Cerrito	68	61	Santander
+68167	Charala	68	61	Santander
+68169	Charta	68	61	Santander
+68176	Chima	68	61	Santander
+68179	Chipata	68	61	Santander
+68190	Cimitarra	68	61	Santander
+68207	Concepcion	68	61	Santander
+68209	Confines	68	61	Santander
+68211	Contratacion	68	61	Santander
+68217	Coromoro	68	61	Santander
+68229	Curiti	68	61	Santander
+68235	El Carmen de Chucuri	68	61	Santander
+68245	El Guacamayo	68	61	Santander
+68250	El Penon	68	61	Santander
+68255	El Playon	68	61	Santander
+68264	Encino	68	61	Santander
+68266	Enciso	68	61	Santander
+68271	Florian	68	61	Santander
+68276	Floridablanca	68	64	Floridablanca
+68296	Galan	68	61	Santander
+68298	Gambita	68	61	Santander
+68307	Giron	68	65	Giron
+68318	Guaca	68	61	Santander
+68320	Guadalupe	68	61	Santander
+68322	Guapota	68	61	Santander
+68324	Guavata	68	61	Santander
+68327	Guepsa	68	61	Santander
+68344	Hato	68	61	Santander
+68368	Jesus Maria	68	61	Santander
+68370	Jordan	68	61	Santander
+68377	La Belleza	68	61	Santander
+68385	Landazuri	68	61	Santander
+68397	La Paz	68	61	Santander
+68406	Lebrija	68	61	Santander
+68418	Los Santos	68	61	Santander
+68425	Macaravita	68	61	Santander
+68432	Malaga	68	61	Santander
+68444	Matanza	68	61	Santander
+68464	Mogotes	68	61	Santander
+68468	Molagavita	68	61	Santander
+68498	Ocamonte	68	61	Santander
+68500	Oiba	68	61	Santander
+68502	Onzaga	68	61	Santander
+68522	Palmar	68	61	Santander
+68524	Palmas del Socorro	68	61	Santander
+68533	Paramo	68	61	Santander
+68547	Piedecuesta	68	82	Piedecuesta
+68549	Pinchote	68	61	Santander
+68572	Puente Nacional	68	61	Santander
+68573	Puerto Parra	68	61	Santander
+68575	Puerto Wilches	68	61	Santander
+68615	Rionegro	68	61	Santander
+68655	Sabana de Torres	68	61	Santander
+68669	San Andres	68	61	Santander
+68673	San Benito	68	61	Santander
+68679	San Gil	68	61	Santander
+68682	San Joaquin	68	61	Santander
+68684	San Jose de Miranda	68	61	Santander
+68686	San Miguel	68	61	Santander
+68689	San Vicente de Chucuri	68	61	Santander
+68705	Santa Barbara	68	61	Santander
+68720	Santa Helena del Opon	68	61	Santander
+68745	Simacota	68	61	Santander
+68755	Socorro	68	61	Santander
+68770	Suaita	68	61	Santander
+68773	Sucre	68	61	Santander
+68780	Surata	68	61	Santander
+68820	Tona	68	61	Santander
+68855	Valle de San Jose	68	61	Santander
+68861	Velez	68	61	Santander
+68867	Vetas	68	61	Santander
+68872	Villanueva	68	61	Santander
+68895	Zapatoca	68	61	Santander
+70001	Sincelejo	70	67	Sincelejo
+70110	Buenavista	70	66	Sucre
+70124	Caimito	70	66	Sucre
+70204	Coloso	70	66	Sucre
+70215	Corozal	70	66	Sucre
+70221	Covenas	70	66	Sucre
+70230	Chalan	70	66	Sucre
+70233	El Roble	70	66	Sucre
+70235	Galeras	70	66	Sucre
+70265	Guaranda	70	66	Sucre
+70400	La Union	70	66	Sucre
+70418	Los Palmitos	70	66	Sucre
+70429	Majagual	70	66	Sucre
+70473	Morroa	70	66	Sucre
+70508	Ovejas	70	66	Sucre
+70523	Palmito	70	66	Sucre
+70670	Sampues	70	66	Sucre
+70678	San Benito Abad	70	66	Sucre
+70702	San Juan de Betulia	70	66	Sucre
+70708	San Marcos	70	66	Sucre
+70713	San Onofre	70	66	Sucre
+70717	San Pedro	70	66	Sucre
+70742	San Luis de Since	70	66	Sucre
+70771	Sucre	70	66	Sucre
+70820	Santiago de Tolu	70	66	Sucre
+70823	Tolu Viejo	70	66	Sucre
+73001	Ibague	73	69	Ibague
+73024	Alpujarra	73	68	Tolima
+73026	Alvarado	73	68	Tolima
+73030	Ambalema	73	68	Tolima
+73043	Anzoategui	73	68	Tolima
+73055	Armero	73	68	Tolima
+73067	Ataco	73	68	Tolima
+73124	Cajamarca	73	68	Tolima
+73148	Carmen de Apicala	73	68	Tolima
+73152	Casabianca	73	68	Tolima
+73168	Chaparral	73	68	Tolima
+73200	Coello	73	68	Tolima
+73217	Coyaima	73	68	Tolima
+73226	Cunday	73	68	Tolima
+73236	Dolores	73	68	Tolima
+73268	Espinal	73	68	Tolima
+73270	Falan	73	68	Tolima
+73275	Flandes	73	68	Tolima
+73283	Fresno	73	68	Tolima
+73319	Guamo	73	68	Tolima
+73347	Herveo	73	68	Tolima
+73349	Honda	73	68	Tolima
+73352	Icononzo	73	68	Tolima
+73408	Lerida	73	68	Tolima
+73411	Libano	73	68	Tolima
+73443	Mariquita	73	68	Tolima
+73449	Melgar	73	68	Tolima
+73461	Murillo	73	68	Tolima
+73483	Natagaima	73	68	Tolima
+73504	Ortega	73	68	Tolima
+73520	Palocabildo	73	68	Tolima
+73547	Piedras	73	68	Tolima
+73555	Planadas	73	68	Tolima
+73563	Prado	73	68	Tolima
+73585	Purificacion	73	68	Tolima
+73616	Rioblanco	73	68	Tolima
+73622	Roncesvalles	73	68	Tolima
+73624	Rovira	73	68	Tolima
+73671	Saldana	73	68	Tolima
+73675	San Antonio	73	68	Tolima
+73678	San Luis	73	68	Tolima
+73686	Santa Isabel	73	68	Tolima
+73770	Suarez	73	68	Tolima
+73854	Valle de San Juan	73	68	Tolima
+73861	Venadillo	73	68	Tolima
+73870	Villahermosa	73	68	Tolima
+73873	Villarrica	73	68	Tolima
+76001	Cali	76	71	Cali
+76020	Alcala	76	70	Valle del Cauca
+76036	Andalucia	76	70	Valle del Cauca
+76041	Ansermanuevo	76	70	Valle del Cauca
+76054	Argelia	76	70	Valle del Cauca
+76100	Bolivar	76	70	Valle del Cauca
+76109	Buenaventura	76	72	Buenaventura
+76111	Buga	76	73	Buga
+76113	Bugalagrande	76	70	Valle del Cauca
+76122	Caicedonia	76	70	Valle del Cauca
+76126	Calima	76	70	Valle del Cauca
+76130	Candelaria	76	70	Valle del Cauca
+76147	Cartago	76	74	Cartago
+76233	Dagua	76	70	Valle del Cauca
+76243	El aguila	76	70	Valle del Cauca
+76246	El Cairo	76	70	Valle del Cauca
+76248	El Cerrito	76	70	Valle del Cauca
+76250	El Dovio	76	70	Valle del Cauca
+76275	Florida	76	70	Valle del Cauca
+76306	Ginebra	76	70	Valle del Cauca
+76318	Guacari	76	70	Valle del Cauca
+76364	Jamundi	76	81	Jamundi
+76377	La Cumbre	76	70	Valle del Cauca
+76400	La Union	76	70	Valle del Cauca
+76403	La Victoria	76	70	Valle del Cauca
+76497	Obando	76	70	Valle del Cauca
+76520	Palmira	76	75	Palmira
+76563	Pradera	76	70	Valle del Cauca
+76606	Restrepo_VDC	76	70	Valle del Cauca
+76616	Riofrio	76	70	Valle del Cauca
+76622	Roldanillo	76	70	Valle del Cauca
+76670	San Pedro	76	70	Valle del Cauca
+76736	Sevilla	76	70	Valle del Cauca
+76823	Toro	76	70	Valle del Cauca
+76828	Trujillo	76	70	Valle del Cauca
+76834	Tulua	76	76	Tulua
+76845	Ulloa	76	70	Valle del Cauca
+76863	Versalles	76	70	Valle del Cauca
+76869	Vijes	76	70	Valle del Cauca
+76890	Yotoco	76	70	Valle del Cauca
+76892	Yumbo	76	95	Yumbo
+76895	Zarzal	76	70	Valle del Cauca
+81001	Arauca	81	08	Arauca
+81065	Arauquita	81	08	Arauca
+81220	Cravo Norte	81	08	Arauca
+81300	Fortul	81	08	Arauca
+81591	Puerto Rondon	81	08	Arauca
+81736	Saravena	81	08	Arauca
+81794	Tame	81	08	Arauca
+85001	Yopal	85	94	Yopal
+85010	Aguazul	85	24	Casanare
+85015	Chameza	85	24	Casanare
+85125	Hato Corozal	85	24	Casanare
+85136	La Salina	85	24	Casanare
+85139	Mani	85	24	Casanare
+85162	Monterrey	85	24	Casanare
+85225	Nunchia	85	24	Casanare
+85230	Orocue	85	24	Casanare
+85250	Paz de Ariporo	85	24	Casanare
+85263	Pore	85	24	Casanare
+85279	Recetor	85	24	Casanare
+85300	Sabanalarga	85	24	Casanare
+85315	Sacama	85	24	Casanare
+85325	San Luis De Palenque	85	24	Casanare
+85400	Tamara	85	24	Casanare
+85410	Tauramena	85	24	Casanare
+85430	Trinidad	85	24	Casanare
+85440	Villanueva	85	24	Casanare
+86001	Mocoa	86	53	Putumayo
+86219	Colon	86	53	Putumayo
+86320	Orito	86	53	Putumayo
+86568	Puerto Asis	86	53	Putumayo
+86569	Puerto Caicedo	86	53	Putumayo
+86571	Puerto Guzman	86	53	Putumayo
+86573	Leguizamo	86	53	Putumayo
+86749	Sibundoy	86	53	Putumayo
+86755	San Francisco	86	53	Putumayo
+86757	San Miguel	86	53	Putumayo
+86760	Santiago	86	53	Putumayo
+86865	Valle del Guamuez	86	53	Putumayo
+86885	Villagarzon	86	53	Putumayo
+88001	San Andres	88	59	San Andres
+88564	Providencia	88	59	San Andres
+91001	Leticia	91	01	Amazonas
+91263	El Encanto	91	01	Amazonas
+91405	La Chorrera	91	01	Amazonas
+91407	La Pedrera	91	01	Amazonas
+91430	La Victoria	91	01	Amazonas
+91460	Miriti-Parana	91	01	Amazonas
+91530	Puerto Alegria	91	01	Amazonas
+91536	Puerto Arica	91	01	Amazonas
+91540	Puerto Narino	91	01	Amazonas
+91669	Puerto Santander	91	01	Amazonas
+91798	Tarapaca	91	01	Amazonas
+94001	Inirida	94	38	Guainia
+94343	Barranco Minas	94	38	Guainia
+94663	Mapiripana	94	38	Guainia
+94883	San Felipe	94	38	Guainia
+94884	Puerto Colombia	94	38	Guainia
+94885	La Guadalupe	94	38	Guainia
+94886	Cacahual	94	38	Guainia
+94887	Pana Pana	94	38	Guainia
+94888	Morichal	94	38	Guainia
+95001	San Jose del Guaviare	95	39	Guaviare
+95015	Calamar	95	39	Guaviare
+95025	El Retorno	95	39	Guaviare
+95200	Miraflores	95	39	Guaviare
+97001	Mitu	97	77	Vaupes
+97161	Caruru	97	77	Vaupes
+97511	Pacoa	97	77	Vaupes
+97666	Taraira	97	77	Vaupes
+97889	Yavarate	97	77	Vaupes
+99001	Puerto Carreno	99	78	Vichada
+99524	La Primavera	99	78	Vichada
+99624	Santa Rosalia	99	78	Vichada
+99773	Cumaribo	99	78	Vichada
+97777	Papunaua	97	77	Vaupes
